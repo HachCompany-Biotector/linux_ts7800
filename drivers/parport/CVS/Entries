@@ -1,0 +1,23 @@
+/BUGS-parport/1.1.1.1/Fri Oct 22 17:41:50 2010//
+/Kconfig/1.1.1.1/Fri Oct 22 17:41:50 2010//
+/Makefile/1.1.1.1/Fri Oct 22 17:41:50 2010//
+/TODO-parport/1.1.1.1/Fri Oct 22 17:41:50 2010//
+/daisy.c/1.1.1.1/Fri Oct 22 17:41:50 2010//
+/ieee1284.c/1.1.1.1/Fri Oct 22 17:41:50 2010//
+/ieee1284_ops.c/1.1.1.1/Fri Oct 22 17:41:50 2010//
+/multiface.h/1.1.1.1/Fri Oct 22 17:41:50 2010//
+/parport_amiga.c/1.1.1.1/Fri Oct 22 17:41:51 2010//
+/parport_atari.c/1.1.1.1/Fri Oct 22 17:41:51 2010//
+/parport_ax88796.c/1.1.1.1/Fri Oct 22 17:41:51 2010//
+/parport_cs.c/1.1.1.1/Fri Oct 22 17:41:51 2010//
+/parport_gsc.c/1.1.1.1/Fri Oct 22 17:41:51 2010//
+/parport_gsc.h/1.1.1.1/Fri Oct 22 17:41:51 2010//
+/parport_ip32.c/1.1.1.1/Fri Oct 22 17:41:52 2010//
+/parport_mfc3.c/1.1.1.1/Fri Oct 22 17:41:52 2010//
+/parport_pc.c/1.1.1.1/Fri Oct 22 17:41:53 2010//
+/parport_serial.c/1.1.1.1/Fri Oct 22 17:41:53 2010//
+/parport_sunbpp.c/1.1.1.1/Fri Oct 22 17:41:54 2010//
+/probe.c/1.1.1.1/Fri Oct 22 17:41:54 2010//
+/procfs.c/1.1.1.1/Fri Oct 22 17:41:54 2010//
+/share.c/1.1.1.1/Fri Oct 22 17:41:54 2010//
+D

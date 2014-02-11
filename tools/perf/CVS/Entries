@@ -1,0 +1,27 @@
+/.gitignore/1.1.1.1/Fri Oct 22 18:29:17 2010//
+/CREDITS/1.1.1.1/Fri Oct 22 18:29:17 2010//
+/Makefile/1.1.1.1/Fri Oct 22 18:29:17 2010//
+/builtin-annotate.c/1.1.1.1/Fri Oct 22 18:29:18 2010//
+/builtin-bench.c/1.1.1.1/Fri Oct 22 18:29:18 2010//
+/builtin-buildid-cache.c/1.1.1.1/Fri Oct 22 18:29:18 2010//
+/builtin-buildid-list.c/1.1.1.1/Fri Oct 22 18:29:18 2010//
+/builtin-diff.c/1.1.1.1/Fri Oct 22 18:29:18 2010//
+/builtin-help.c/1.1.1.1/Fri Oct 22 18:29:18 2010//
+/builtin-kmem.c/1.1.1.1/Fri Oct 22 18:29:18 2010//
+/builtin-list.c/1.1.1.1/Fri Oct 22 18:29:18 2010//
+/builtin-lock.c/1.1.1.1/Fri Oct 22 18:29:19 2010//
+/builtin-probe.c/1.1.1.1/Fri Oct 22 18:29:19 2010//
+/builtin-record.c/1.1.1.1/Fri Oct 22 18:29:19 2010//
+/builtin-report.c/1.1.1.1/Fri Oct 22 18:29:19 2010//
+/builtin-sched.c/1.1.1.1/Fri Oct 22 18:29:20 2010//
+/builtin-stat.c/1.1.1.1/Fri Oct 22 18:29:20 2010//
+/builtin-timechart.c/1.1.1.1/Fri Oct 22 18:29:20 2010//
+/builtin-top.c/1.1.1.1/Fri Oct 22 18:29:21 2010//
+/builtin-trace.c/1.1.1.1/Fri Oct 22 18:29:21 2010//
+/builtin.h/1.1.1.1/Fri Oct 22 18:29:21 2010//
+/command-list.txt/1.1.1.1/Fri Oct 22 18:29:21 2010//
+/design.txt/1.1.1.1/Fri Oct 22 18:29:21 2010//
+/perf-archive.sh/1.1.1.1/Fri Oct 22 18:29:21 2010//
+/perf.c/1.1.1.1/Fri Oct 22 18:29:21 2010//
+/perf.h/1.1.1.1/Fri Oct 22 18:29:21 2010//
+D

@@ -1,0 +1,26 @@
+/Kconfig/1.1.1.1/Fri Oct 22 17:42:23 2010//
+/Makefile/1.1.1.1/Fri Oct 22 17:42:23 2010//
+/acer-wmi.c/1.1.1.1/Fri Oct 22 17:42:24 2010//
+/acerhdf.c/1.1.1.1/Fri Oct 22 17:42:24 2010//
+/asus-laptop.c/1.1.1.1/Fri Oct 22 17:42:25 2010//
+/asus_acpi.c/1.1.1.1/Fri Oct 22 17:42:25 2010//
+/classmate-laptop.c/1.1.1.1/Fri Oct 22 17:42:25 2010//
+/compal-laptop.c/1.1.1.1/Fri Oct 22 17:42:25 2010//
+/dell-laptop.c/1.1.1.1/Fri Oct 22 17:42:25 2010//
+/dell-wmi.c/1.1.1.1/Fri Oct 22 17:42:26 2010//
+/eeepc-laptop.c/1.1.1.1/Fri Oct 22 17:42:26 2010//
+/eeepc-wmi.c/1.1.1.1/Fri Oct 22 17:42:26 2010//
+/fujitsu-laptop.c/1.1.1.1/Fri Oct 22 17:42:26 2010//
+/hp-wmi.c/1.1.1.1/Fri Oct 22 17:42:27 2010//
+/intel_menlow.c/1.1.1.1/Fri Oct 22 17:42:27 2010//
+/msi-laptop.c/1.1.1.1/Fri Oct 22 17:42:27 2010//
+/msi-wmi.c/1.1.1.1/Fri Oct 22 17:42:27 2010//
+/panasonic-laptop.c/1.1.1.1/Fri Oct 22 17:42:28 2010//
+/sony-laptop.c/1.1.1.1/Fri Oct 22 17:42:28 2010//
+/tc1100-wmi.c/1.1.1.1/Fri Oct 22 17:42:29 2010//
+/thinkpad_acpi.c/1.1.1.1/Fri Oct 22 17:42:31 2010//
+/topstar-laptop.c/1.1.1.1/Fri Oct 22 17:42:31 2010//
+/toshiba_acpi.c/1.1.1.1/Fri Oct 22 17:42:32 2010//
+/toshiba_bluetooth.c/1.1.1.1/Fri Oct 22 17:42:32 2010//
+/wmi.c/1.1.1.1/Fri Oct 22 17:42:32 2010//
+D

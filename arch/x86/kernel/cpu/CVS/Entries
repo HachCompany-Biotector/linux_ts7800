@@ -1,0 +1,27 @@
+/.gitignore/1.1.1.1/Fri Oct 22 17:17:03 2010//
+/Makefile/1.1.1.1/Fri Oct 22 17:17:03 2010//
+/addon_cpuid_features.c/1.1.1.1/Fri Oct 22 17:17:03 2010//
+/amd.c/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/bugs.c/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/bugs_64.c/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/centaur.c/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/cmpxchg.c/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/common.c/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/cpu.h/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/cyrix.c/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/hypervisor.c/1.1.1.1/Fri Oct 22 17:17:04 2010//
+/intel.c/1.1.1.1/Fri Oct 22 17:17:05 2010//
+/intel_cacheinfo.c/1.1.1.1/Fri Oct 22 17:17:05 2010//
+/mkcapflags.pl/1.1.1.1/Fri Oct 22 17:17:05 2010//
+/perf_event.c/1.1.1.1/Fri Oct 22 17:17:05 2010//
+/perf_event_amd.c/1.1.1.1/Fri Oct 22 17:17:05 2010//
+/perf_event_intel.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+/perf_event_p6.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+/perfctr-watchdog.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+/powerflags.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+/proc.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+/sched.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+/transmeta.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+/umc.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+/vmware.c/1.1.1.1/Fri Oct 22 17:17:06 2010//
+D

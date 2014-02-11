@@ -1,0 +1,11 @@
+/Makefile/1.1.1.1/Fri Oct 22 18:23:36 2010//
+/rpc_rdma.c/1.1.1.1/Fri Oct 22 18:23:37 2010//
+/svc_rdma.c/1.1.1.1/Fri Oct 22 18:23:37 2010//
+/svc_rdma_marshal.c/1.1.1.1/Fri Oct 22 18:23:37 2010//
+/svc_rdma_recvfrom.c/1.1.1.1/Fri Oct 22 18:23:38 2010//
+/svc_rdma_sendto.c/1.1.1.1/Fri Oct 22 18:23:38 2010//
+/svc_rdma_transport.c/1.1.1.1/Fri Oct 22 18:23:38 2010//
+/transport.c/1.1.1.1/Fri Oct 22 18:23:39 2010//
+/verbs.c/1.1.1.1/Fri Oct 22 18:23:40 2010//
+/xprt_rdma.h/1.1.1.1/Fri Oct 22 18:23:40 2010//
+D

@@ -1,0 +1,22 @@
+/Makefile/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/acpi.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/amd_bus.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/bus_numa.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/bus_numa.h/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/common.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/direct.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/early.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/fixup.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/i386.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/init.c/1.1.1.1/Fri Oct 22 17:17:32 2010//
+/irq.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/legacy.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/mmconfig-shared.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/mmconfig_32.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/mmconfig_64.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/mrst.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/numaq_32.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/olpc.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/pcbios.c/1.1.1.1/Fri Oct 22 17:17:33 2010//
+/visws.c/1.1.1.1/Fri Oct 22 17:17:34 2010//
+D

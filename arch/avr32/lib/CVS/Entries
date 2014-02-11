@@ -1,0 +1,21 @@
+/Makefile/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/__avr32_asr64.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/__avr32_lsl64.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/__avr32_lsr64.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/clear_user.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/copy_user.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/csum_partial.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/csum_partial_copy_generic.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/delay.c/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/findbit.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/io-readsb.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/io-readsl.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/io-readsw.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/io-writesb.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/io-writesl.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/io-writesw.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/memcpy.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/memset.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/strncpy_from_user.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+/strnlen_user.S/1.1.1.1/Fri Oct 22 17:04:31 2010//
+D

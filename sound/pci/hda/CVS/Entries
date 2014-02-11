@@ -1,0 +1,26 @@
+/Kconfig/1.1.1.1/Fri Oct 22 18:26:48 2010//
+/Makefile/1.1.1.1/Fri Oct 22 18:26:48 2010//
+/hda_beep.c/1.1.1.1/Fri Oct 22 18:26:48 2010//
+/hda_beep.h/1.1.1.1/Fri Oct 22 18:26:48 2010//
+/hda_codec.c/1.1.1.1/Fri Oct 22 18:26:49 2010//
+/hda_codec.h/1.1.1.1/Fri Oct 22 18:26:50 2010//
+/hda_eld.c/1.1.1.1/Fri Oct 22 18:26:50 2010//
+/hda_generic.c/1.1.1.1/Fri Oct 22 18:26:50 2010//
+/hda_hwdep.c/1.1.1.1/Fri Oct 22 18:26:50 2010//
+/hda_intel.c/1.1.1.1/Fri Oct 22 18:26:51 2010//
+/hda_local.h/1.1.1.1/Fri Oct 22 18:26:52 2010//
+/hda_proc.c/1.1.1.1/Fri Oct 22 18:26:52 2010//
+/patch_analog.c/1.1.1.1/Fri Oct 22 18:26:55 2010//
+/patch_atihdmi.c/1.1.1.1/Fri Oct 22 18:26:56 2010//
+/patch_ca0110.c/1.1.1.1/Fri Oct 22 18:26:56 2010//
+/patch_cirrus.c/1.1.1.1/Fri Oct 22 18:26:57 2010//
+/patch_cmedia.c/1.1.1.1/Fri Oct 22 18:26:57 2010//
+/patch_conexant.c/1.1.1.1/Fri Oct 22 18:26:59 2010//
+/patch_hdmi.c/1.1.1.1/Fri Oct 22 18:27:00 2010//
+/patch_intelhdmi.c/1.1.1.1/Fri Oct 22 18:27:00 2010//
+/patch_nvhdmi.c/1.1.1.1/Fri Oct 22 18:27:00 2010//
+/patch_realtek.c/1.1.1.1/Fri Oct 22 18:27:13 2010//
+/patch_si3054.c/1.1.1.1/Fri Oct 22 18:27:13 2010//
+/patch_sigmatel.c/1.1.1.1/Fri Oct 22 18:27:16 2010//
+/patch_via.c/1.1.1.1/Fri Oct 22 18:27:19 2010//
+D

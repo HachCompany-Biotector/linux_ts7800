@@ -1,0 +1,16 @@
+/Makefile/1.1.1.1/Fri Oct 22 18:17:59 2010//
+/compat.c/1.1.1.1/Fri Oct 22 18:18:00 2010//
+/compat_mq.c/1.1.1.1/Fri Oct 22 18:18:00 2010//
+/ipc_sysctl.c/1.1.1.1/Fri Oct 22 18:18:00 2010//
+/ipcns_notifier.c/1.1.1.1/Fri Oct 22 18:18:00 2010//
+/mq_sysctl.c/1.1.1.1/Fri Oct 22 18:18:00 2010//
+/mqueue.c/1.1.1.1/Fri Oct 22 18:18:00 2010//
+/msg.c/1.1.1.1/Fri Oct 22 18:18:01 2010//
+/msgutil.c/1.1.1.1/Fri Oct 22 18:18:01 2010//
+/namespace.c/1.1.1.1/Fri Oct 22 18:18:01 2010//
+/sem.c/1.1.1.1/Fri Oct 22 18:18:02 2010//
+/shm.c/1.1.1.1/Fri Oct 22 18:18:02 2010//
+/syscall.c/1.1.1.1/Fri Oct 22 18:18:02 2010//
+/util.c/1.1.1.1/Fri Oct 22 18:18:03 2010//
+/util.h/1.1.1.1/Fri Oct 22 18:18:03 2010//
+D
